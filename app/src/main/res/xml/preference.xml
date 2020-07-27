@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:key="@string/key_switch"
+        android:defaultValue="false"
+        android:icon="@drawable/notifications"
+        android:title="@string/reminder"/>
+
+    <Preference
+        android:key="@string/key_language"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/language"
+        android:summary="@string/lang"
+        android:icon="@drawable/translate" />
+</PreferenceScreen>

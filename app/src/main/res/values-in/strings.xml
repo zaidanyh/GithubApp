@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Github App</string>
+    <string name="title">Cari Pengguna User</string>
+    <string name="change_language">Ganti Bahasa</string>
+
+    <string name="hint">Cari Pengguna</string>
+    <string name="search">Cari</string>
+    <string name="settings">Pengaturan</string>
+    <string name="favorite">Favorit</string>
+    <string name="repository">Repositori</string>
+    <string name="follower">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="detailUser">Detail Pengguna</string>
+    <string name="myFavorite">Favoritku</string>
+    <string name="reminder">Pengingat Pukul 9.00 AM</string>
+    <string name="language">Pilih Bahasa</string>
+    <string name="lang">Indonesia</string>
+
+    <string name="key_switch">switch_reminder</string>
+    <string name="key_language">language</string>
+    <string name="addFav">Berhasil ditambahkan ke daftar Favorit</string>
+    <string name="addFavFail">Gagal Ditambahkan ke daftar Favorit</string>
+    <string name="delete">Berhasil Menghapus</string>
+    <string name="deleteFail">Gagal Menghapus</string>
+    <string name="deleteTitle">Hapus</string>
+    <string name="deleteMessage">Apakah anda yakin menghapus user ini dari daftar favorit?</string>
+    <string name="buttonPositive">Ya</string>
+    <string name="buttonNegative">Tidak</string>
+    <string name="loadList">Tidak ada daftar favorit</string>
+    <string name="stackView">Daftar Favorit Anda</string>
+</resources>

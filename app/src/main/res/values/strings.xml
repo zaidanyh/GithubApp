@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Github App</string>
+    <string name="title">Github User\'s Search</string>
+    <string name="change_language">Change Language</string>
+
+    <string name="hint">Search User</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+    <string name="favorite">Favorite</string>
+    <string name="repository">Repository</string>
+    <string name="follower">Followers</string>
+    <string name="following">Following</string>
+    <string name="detailUser">Detail User</string>
+    <string name="myFavorite">My Favorite</string>
+    <string name="reminder">Reminder at 9.00 AM</string>
+    <string name="language">Select Language</string>
+    <string name="lang">English</string>
+
+    <string name="key_switch">switch_reminder</string>
+    <string name="key_language">language</string>
+    <string name="addFav">Added to Favorite list Successfully</string>
+    <string name="addFavFail">Added to Favorite list Failed</string>
+    <string name="delete">Successfully Deleted</string>
+    <string name="deleteFail">Failed to Delete</string>
+    <string name="deleteTitle">Delete</string>
+    <string name="deleteMessage">Are you sure you want to delete this user from the favorites list?</string>
+    <string name="buttonPositive">Yes</string>
+    <string name="buttonNegative">No</string>
+    <string name="loadList">There are no favorite lists</string>
+    <string name="stackView">Your Favorites List</string>
+</resources>
